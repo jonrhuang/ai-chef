@@ -1,16 +1,58 @@
-# React + Vite
+# "React Facts" Static Page
+Static page I created while I learn React
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+## Tech Stack
+- **Vite**
+- **JavaScript**
+- **Framework**: React
+- **Package Manager**: npm
 
-Currently, two official plugins are available:
+---
+## Project Structure
+```
+react-facts/
+├── public/
+├── src/
+│ ├── assets/
+│ ├── components/
+│ ├── App.jsx
+│ ├── index.css
+│ └── main.jsx
+├── README.md
+├── index.html
+├── package.json
+└── vite.config.js
+```
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+---
+## Dependencies
 
-## React Compiler
+### Main Dependencies
+- **react** - 19.1.1
+- **react-dom** - 19.1.1
 
-The React Compiler is not enabled on this template. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+### Dev Dependencies
+- **vite** - 7.0.6
+- **@vitejs/plugin-react** - 4.7.0
+- **eslint** - 9.32.0
+- **@eslint/js** - 9.32.0
+- **eslintj-plugin-react-hooks** - 5.2.0
+- **esline-plugin-react-refresh** - 0.4.20
+- **globals** - 16.3.0
+- **@types/react** - 19.1.9
+- **@types/react-dom** - 19.1.7
 
-## Expanding the ESLint configuration
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+## Running & Building
+
+### Prerequisites
+- Node.js
+- npm
+
+## Installation
+From the project root, run
+`npm install`
+
+## Running Development Server
+From the project root, run
+`npm run dev`
