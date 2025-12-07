@@ -32,9 +32,9 @@ react-facts/
 - **react-dom** - 19.1.1
 - **@huggingface/inference** - 4.9.0
 - **react-markdown** - 10.1.0
-- **vite** - 7.0.6
 
 ### Dev Dependencies
+- **vite** - 7.0.6
 - **@vitejs/plugin-react** - 4.7.0
 - **baseline-browser-mapping** - 2.9.4
 
