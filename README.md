@@ -1,5 +1,5 @@
-# "React Facts" Static Page
-Static page I created while I learn React
+# A.I. Chef
+App that allows user to enter ingredients and makes a call to AI model: Mistral-7B-Instruct-v0.2 to generate a recipe using the ingredients
 
 ## Tech Stack
 - **Vite**
@@ -30,19 +30,15 @@ react-facts/
 ### Main Dependencies
 - **react** - 19.1.1
 - **react-dom** - 19.1.1
+- **@huggingface/inference** - 4.9.0
+- **react-markdown** - 10.1.0
+- **vite** - 7.0.6
 
 ### Dev Dependencies
-- **vite** - 7.0.6
 - **@vitejs/plugin-react** - 4.7.0
-- **eslint** - 9.32.0
-- **@eslint/js** - 9.32.0
-- **eslintj-plugin-react-hooks** - 5.2.0
-- **esline-plugin-react-refresh** - 0.4.20
-- **globals** - 16.3.0
-- **@types/react** - 19.1.9
-- **@types/react-dom** - 19.1.7
+- **baseline-browser-mapping** - 2.9.4
 
-
+---
 ## Running & Building
 
 ### Prerequisites
