@@ -1,10 +1,10 @@
 # A.I. Chef
-App that allows user to enter ingredients and makes a call to AI model: Mistral-7B-Instruct-v0.2 to generate a recipe using the ingredients
+App that allows user to enter ingredients and makes a call to AI model: Mistral-7B-Instruct-v0.2 to generate a recipe using the ingredients. Follwing Scrimba "Learn React" course
 
 ## Tech Stack
 - **Vite**
 - **JavaScript**
-- **Framework**: React
+- **Library**: React
 - **Package Manager**: npm
 
 ---
